@@ -1,0 +1,33 @@
+# Introduction to Cloud Computing Training / Mentorship - Ajira Digital
+
+
+## 🎯 Task Overview
+
+![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/7f19c7ebde1540ea02377bb90e4616605f546a7e/resources/ec2.png)
+
+- **Create an EC2 (Elastic Compute Cloud) Instance on AWS**
+
+## 📝 Steps for Creating an Amazon EC2 Instance
+
+1. **Login into your AWS account**
+   - Log in to the AWS Management Console (https://signin.aws.amazon.com/), if you don't have one - you will be prompted to sign up.
+   - You can either sign in as the root user or an IAM User depending on your preferrence.
+   - Enter you email and password then validate the MFA (Multifactor Authentication)
+![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/2efa99f82ef7d9d4d59a3921a3ef55a47846d58a/resources/Login.png)
+
+
+2. **Navigate to Console Home**
+   - After successful login. Go to console home where you get to see different AWS resources listed : VPC, IAM, EC2, RDS as shown in the image below
+   - In this case, we are interested with EC2 only. Click on EC2
+![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/2efa99f82ef7d9d4d59a3921a3ef55a47846d58a/resources/Console.png)
+
+3. **Launch Instance**
+   - Here you get to see if there are any running instances, key pairs, security groups, load balancers, Auto Scaling groups etc. 
+   - Click on launch instance to create a new EC2 instance.
+![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/2efa99f82ef7d9d4d59a3921a3ef55a47846d58a/resources/Launch.png)
+
+3. **Specify Instance name & type, AMI Image, Keypair**
+   - Here you get to see if there are any running instances, key pairs, security groups, load balancers, Auto Scaling groups etc. 
+   - Click on launch instance to create a new EC2 instance.
+
+![Instance properties](ss3.png)
