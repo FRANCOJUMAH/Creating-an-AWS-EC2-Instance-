@@ -31,3 +31,5 @@
    - Click on launch instance to create a new EC2 instance.
 
 ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/7c8970fbcdc6c61be51fe14cbfec0fdecee33a96/resources/Specify.png)
+
+ - In this case Instance name is Shujaa server, Amazon Linux as the AMI, instance type t3.micro, key pair - shujaa, set the instance to create a new security group during creation, allow SSH connection to the instance from anywhere (Note: Not a good security practice for your cloud resources). With all these parameters set, you can now go ahead to launch your instance
