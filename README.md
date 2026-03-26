@@ -26,7 +26,7 @@
    - Click on launch instance to create a new EC2 instance.
 ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/2efa99f82ef7d9d4d59a3921a3ef55a47846d58a/resources/Launch.png)
 
-3. **Specify Instance name & type, AMI Image, Keypair**
+4. **Specify Instance name & type, AMI Image, Keypair**
    - Here you get to see if there are any running instances, key pairs, security groups, load balancers, Auto Scaling groups etc. 
    - Click on launch instance to create a new EC2 instance.
 
@@ -39,3 +39,6 @@
  ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/b1490931573c970e9e3d233946101c9063449049/resources/instance%20type.png)
 
   ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/b1490931573c970e9e3d233946101c9063449049/resources/security%20group.png)
+  
+5. **Instance launched successfully and is now in running state**
+   ![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/62411694b95c20a43093005b2bb64e91c4ad51f2/resources/Instance%20running.png)
