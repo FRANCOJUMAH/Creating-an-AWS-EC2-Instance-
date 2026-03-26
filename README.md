@@ -30,4 +30,4 @@
    - Here you get to see if there are any running instances, key pairs, security groups, load balancers, Auto Scaling groups etc. 
    - Click on launch instance to create a new EC2 instance.
 
-![Instance properties](ss3.png)
+![image](https://github.com/FRANCOJUMAH/Creating-an-AWS-EC2-Instance-/blob/7c8970fbcdc6c61be51fe14cbfec0fdecee33a96/resources/Specify.png)
